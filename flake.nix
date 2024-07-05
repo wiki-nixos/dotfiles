@@ -69,7 +69,7 @@
     srvos.url = "github:numtide/srvos";
     srvos.inputs.nixpkgs.follows = "nixpkgs";
 
-    clan-core.url = "https://git.clan.lol/clan/clan-core/archive/main.tar.gz";
+    clan-core.url = "https://git.clan.lol/clan/clan-core/archive/e5c692f0cfe211673249270af7620da06fa2f437.tar.gz";
     # clan-core.url = "git+file:///home/joerg/work/clan/clan-core?ref=docs";
     #clan-core.url = "path:///Users/joerg/git/clan-core";
     #clan-core.url = "git+https://git.clan.lol/clan/clan-core?ref=fact_refactor2";
